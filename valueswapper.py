@@ -1,0 +1,9 @@
+a=1
+b=2
+print("a:",a)
+print("b:",b)
+print("Swapping...")
+a=2
+b=1
+print("a:",a)
+print("b:",b)
