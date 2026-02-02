@@ -1,9 +1,11 @@
 a=1
 b=2
+temp=0
 print("a:",a)
 print("b:",b)
 print("Swapping...")
-a=2
-b=1
+temp=a
+a=b
+b=temp
 print("a:",a)
 print("b:",b)
