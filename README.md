@@ -4,7 +4,7 @@ Documenting my journey from basic syntax to Machine Learning, NLP, and beyond.
 
 This repository is a living log of my progress through the Python ecosystem. It tracks my transition from foundational logic to building complex AI models.
 
-Section 1: Setup
+Section 0: Setup
 
     OS: Arch Linux
 
@@ -12,7 +12,7 @@ Section 1: Setup
 
     Workflow: Hybrid approach using Neovim for core logic and VS Code for deep debugging and visualization.
 
-Section 2: Basics
+Section 1: Basics
 
     Syntax & Semantics: Indentation rules, comments, and the Python execution model.
 
@@ -22,13 +22,13 @@ Section 2: Basics
 
     Operators: Arithmetic, comparison, and logical operator implementation.
 
-Section 3: Control Flow
+Section 2: Control Flow
 
     Conditional Statements: Branching logic with if, elif, and else.
 
     Loops: Iteration patterns using for (range/sequence) and while.
 
-Section 4: Inbuilt Data Structures
+Section 3: Inbuilt Data Structures
 
     Lists: Ordered, mutable sequences for collection management.
 
