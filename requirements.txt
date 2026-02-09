@@ -1,4 +1,4 @@
-ipykernel
+pynvim
 numpy
 pandas
 matplotlib
@@ -7,4 +7,3 @@ flask
 memory_profiler
 streamlit
 scikit-learn
-
