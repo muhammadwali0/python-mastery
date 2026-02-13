@@ -1,4 +1,4 @@
-Python Foundations
+Python Mastery
 
 Documenting my journey from basic syntax to Machine Learning, NLP, and beyond.
 
