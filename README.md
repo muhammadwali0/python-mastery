@@ -1,59 +1,41 @@
-Python Mastery
+# Python Mastery
 
 Documenting my journey from basic syntax to Machine Learning, NLP, and beyond.
 
 This repository is a living log of my progress through the Python ecosystem. It tracks my transition from foundational logic to building complex AI models.
 
-Section 0: Setup
+---
 
-    OS: Arch Linux
+## Section 0: Setup
+* **OS:** Arch Linux
+* **Environment:** Conda (Virtual Environments)
+* **Workflow:** Hybrid approach using Neovim for core logic and VS Code for deep debugging and visualization.
 
-    Environment: Conda (Virtual Environments)
+## Section 1: Basics
+* **Syntax & Semantics:** Indentation rules, comments, and the Python execution model.
+* **Variables:** Dynamic memory allocation and naming conventions.
+* **Data Types:** Working with Strings, Integers, Floats, and Booleans.
+* **Operators:** Arithmetic, comparison, and logical operator implementation.
 
-    Workflow: Hybrid approach using Neovim for core logic and VS Code for deep debugging and visualization.
+## Section 2: Control Flow
+* **Conditional Statements:** Branching logic with `if`, `elif`, and `else`.
+* **Loops:** Iteration patterns using `for` (range/sequence) and `while`.
 
-Section 1: Basics
+## Section 3: Inbuilt Data Structures
+* **Lists:** Ordered, mutable sequences for collection management.
+* **Tuples:** Immutable sequences for fixed data integrity.
+* **Sets:** Unordered collections of unique elements for membership testing.
+* **Dictionaries:** Key-value mapping for optimized data retrieval.
 
-    Syntax & Semantics: Indentation rules, comments, and the Python execution model.
+## Section 4: Functions
+* **Getting Started:** Defining reusable logic with `def`, handling arguments (positional vs. keyword), and managing `return` values.
+* **Scope:** Understanding Local vs. Global namespaces (LEGB rule).
 
-    Variables: Dynamic memory allocation and naming conventions.
+* **Lambda Functions:** Writing anonymous, one-liner functions for quick logic.
+* **Functional Tools:**
+    * **Map:** Transforming iterables by applying a function to every element.
+    * **Filter:** Extracting elements from a collection based on a boolean condition.
+    * **Reduce:** (via `functools`) Rolling up a sequence into a single cumulative value.
 
-    Data Types: Working with Strings, Integers, Floats, and Booleans.
-
-    Operators: Arithmetic, comparison, and logical operator implementation.
-
-Section 2: Control Flow
-
-    Conditional Statements: Branching logic with if, elif, and else.
-
-    Loops: Iteration patterns using for (range/sequence) and while.
-
-Section 3: Inbuilt Data Structures
-
-    Lists: Ordered, mutable sequences for collection management.
-
-    Tuples: Immutable sequences for fixed data integrity.
-
-    Sets: Unordered collections of unique elements for membership testing.
-
-    Dictionaries: Key-value mapping for optimized data retrieval.
-
-Section 4: Functions
-
-```
-Getting Started: Defining reusable logic with def, handling arguments (positional vs. keyword), and managing return values.
-
-Scope: Understanding Local vs. Global namespaces (LEGB rule).
-
-Lambda Functions: Writing anonymous, one-liner functions for quick logic.
-
-Functional Tools:
-
-    Map: Transforming iterables by applying a function to every element.
-
-    Filter: Extracting elements from a collection based on a boolean condition.
-
-    Reduce: (via functools) Rolling up a sequence into a single cumulative value.
-
-```
-More to come...
+---
+*More to come...*
