@@ -41,19 +41,19 @@ Section 3: Inbuilt Data Structures
 Section 4: Functions
 
 ```
-    Getting Started: Defining reusable logic with def, handling arguments (positional vs. keyword), and managing return values.
+Getting Started: Defining reusable logic with def, handling arguments (positional vs. keyword), and managing return values.
 
-    Scope: Understanding Local vs. Global namespaces (LEGB rule).
+Scope: Understanding Local vs. Global namespaces (LEGB rule).
 
-    Lambda Functions: Writing anonymous, one-liner functions for quick logic.
+Lambda Functions: Writing anonymous, one-liner functions for quick logic.
 
-    Functional Tools:
+Functional Tools:
 
-        Map: Transforming iterables by applying a function to every element.
+    Map: Transforming iterables by applying a function to every element.
 
-        Filter: Extracting elements from a collection based on a boolean condition.
+    Filter: Extracting elements from a collection based on a boolean condition.
 
-        Reduce: (via functools) Rolling up a sequence into a single cumulative value.
+    Reduce: (via functools) Rolling up a sequence into a single cumulative value.
 
 ```
 More to come...
