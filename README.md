@@ -38,4 +38,22 @@ Section 3: Inbuilt Data Structures
 
     Dictionaries: Key-value mapping for optimized data retrieval.
 
+Section 4: Functions
+
+```
+    Getting Started: Defining reusable logic with def, handling arguments (positional vs. keyword), and managing return values.
+
+    Scope: Understanding Local vs. Global namespaces (LEGB rule).
+
+    Lambda Functions: Writing anonymous, one-liner functions for quick logic.
+
+    Functional Tools:
+
+        Map: Transforming iterables by applying a function to every element.
+
+        Filter: Extracting elements from a collection based on a boolean condition.
+
+        Reduce: (via functools) Rolling up a sequence into a single cumulative value.
+
+```
 More to come...
