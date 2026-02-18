@@ -2,6 +2,7 @@
 
 
 def intOnly(**kwargs):
+    """This function creates a dictionary with only integer values"""
     ioDict = dict()
     for key, value in kwargs.items():
         if type(value) is int:
