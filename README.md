@@ -7,7 +7,7 @@ This repository is a living log of my progress through the Python ecosystem. It 
 ---
 
 ## Section 0: Setup
-* **OS:** Arch Linux
+* **OS:** Omarchy (Arch Linux)
 * **Environment:** Conda (Virtual Environments)
 * **Workflow:** Hybrid approach using Neovim for core logic and VS Code for deep debugging and visualization.
 
