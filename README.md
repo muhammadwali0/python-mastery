@@ -37,5 +37,9 @@ This repository is a living log of my progress through the Python ecosystem. It 
     * **Filter:** Extracting elements from a collection based on a boolean condition.
     * **Reduce:** (via `functools`) Rolling up a sequence into a single cumulative value.
 
+## Section 5: Modules
+* **Importing Modules & Packages:** Organizing code using `import`, `from ... import`, and understanding the difference between a module (.py file) and a package (directory with `__init__.py`).
+* **Standard Library Overview:** Leveraging Python’s "batteries included" philosophy with core modules like `os`, `sys`, `math`, and `datetime`.
+
 ---
 *More to come...*
