@@ -40,5 +40,9 @@ This repository is a living log of my progress through the Python ecosystem. It 
 * **Importing Modules & Packages:** Organizing code using `import`, `from ... import`, and understanding the difference between a module (.py file) and a package (directory with `__init__.py`).
 * **Standard Library Overview:** Leveraging Python’s "batteries included" philosophy with core modules like `os`, `sys`, `math`, and `datetime`.
 
+## Section 6: File Handling
+* **File Operations:** Mastering the `open()` function and the `with` statement (Context Managers) for reading, writing, and appending data safely.
+* **Working with File Paths:** Navigating filesystems using `os.path` and the modern `pathlib` library for cross-platform compatibility.
+
 ---
 *More to come...*
