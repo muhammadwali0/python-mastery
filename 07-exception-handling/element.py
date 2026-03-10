@@ -4,9 +4,21 @@ from typing import Any, List
 
 
 def element(items: List[Any], n: int) -> Any:
+    """
+    Retrieve the element at a certain index from a list
+
+    Args:
+        items: list to retrieve element from
+        n: index of the element
+
+    Returns:
+        element of the given index or none if the index is out of range
+
+    Raises:
+        index error if the index is out of range
+    """
     try:
-        result = items[n]
-        return result
+        return items[n]
 
     except IndexError as ie:
         print(f"ERROR: {ie}")
